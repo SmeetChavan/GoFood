@@ -2,7 +2,7 @@
 
 # Please follow the steps to setup this project on your local machine.
 
-Write these commands in you command line. (Please stick to the sequence)
+Write these commands in your command line terminal. (Please stick to the sequence)
 
 ## Backend Setup
 
